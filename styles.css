@@ -45,3 +45,18 @@ body {
   font-size: 1.2rem;
   opacity: 0.8;
 }
+
+button {
+  background-color: #00d4ff;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background-color: #00a6c9;
+}
